@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Misaka/Scenes/Loading.unity
+    guid: 7c3cce4500389bf4d9782d45457143f0
+  - enabled: 1
+    path: Assets/Misaka/Scenes/Menu.unity
+    guid: 3e7c5affb4f61814a8695e91be3315d8
+  - enabled: 1
+    path: Assets/Misaka/Scenes/About.unity
+    guid: 2cc306a996407084fbfdd36656d18f28
+  - enabled: 1
+    path: Assets/Misaka/Scenes/Single.unity
+    guid: c76a0df1e21ec694db36acef39a9258f
+  - enabled: 1
+    path: Assets/Misaka/Scenes/Video.unity
+    guid: 649b026be5a41ef44978db3ba416f4e3
+  - enabled: 1
+    path: Assets/Misaka/Scenes/Object.unity
+    guid: 4a60697d948c5e347ba0235d6f29dae8
+  - enabled: 1
+    path: Assets/Misaka/Scenes/Multiple.unity
+    guid: da273b710b0b08645ac35d0891980cfa
+  - enabled: 1
+    path: Assets/Misaka/Scenes/Choose.unity
+    guid: 23d6f091dd055e34eb6ed1aea0369a2c
+  - enabled: 1
+    path: Assets/Misaka/Scenes/Paint.unity
+    guid: 46507b9769c1e124daa964049b8b8b77
+  - enabled: 1
+    path: Assets/Misaka/Scenes/Remove.unity
+    guid: 4a9c105a49b229744a89db48bf89e37f
+  m_configObjects: {}
